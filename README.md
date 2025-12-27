@@ -4,7 +4,7 @@ A machine learning–based smart agriculture system that helps farmers make data
 
 ## Overview
 This project uses machine learning models to analyze agricultural data and provide intelligent recommendations related to:
-- Crop selection
+- Crop Recommendation
 - Crop yield prediction
 - Fertilizer recommendation
 - Plant growth analysis
